@@ -117,8 +117,8 @@ Planned software architecture:
 
 Add images in `docs/images/` and reference them like this:
 
-![front](docs/images/front.jpg)  
-![back](docs/images/back.jpg)
+![front](images/front.jpg)  
+![back](images/back.jpg)
 
 ---
 
