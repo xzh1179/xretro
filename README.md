@@ -115,10 +115,8 @@ Planned software architecture:
 
 ## 📷 Preview
 
-Add images in `docs/images/` and reference them like this:
-
-![front](images/front.jpg)  
-![back](images/back.jpg)
+<img src="images/front.jpg" width="600"/>
+<img src="images/back.jpg" width="600"/>
 
 ---
 
