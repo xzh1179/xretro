@@ -117,6 +117,8 @@ Planned software architecture:
 
 <img src="images/front.jpg" width="600"/>
 <img src="images/back.jpg" width="600"/>
+<img src="images/solidworks_front.png" width="600"/>
+<img src="images/solidworks_back.png" width="600"/>
 
 ---
 
